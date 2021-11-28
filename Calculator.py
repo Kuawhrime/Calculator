@@ -15,7 +15,7 @@ elif sigle == "-":
 elif sigle == "*":
     print(number1 * number2)
 
-#sign "division with zeroDivision Error Solved" 
+#sign "division" with zeroDivision Error Solved 
 elif sigle == "/":
     try:
         somme = number1 / number2
